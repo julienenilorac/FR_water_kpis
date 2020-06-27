@@ -1,0 +1,7 @@
+plotly
+ipywidgets
+pandas
+requests
+voila
+voila-material
+traitlets

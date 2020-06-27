@@ -1,0 +1,42 @@
+﻿Code,Service,Type,Description,Description_simple,Unité,Fiche
+D101.0,AEP,descriptif des services,Estimation du nombre d'habitants desservis,Estimation du nombre d'habitants desservis,hab,V100315
+D102.0,AEP,descriptif des services,Prix TTC du service au m3 pour 120 m3,Prix TTC du service au m3 pour 120 m3,€/m³,V140318
+D151.0,AEP,descriptif des services,Délai maximal d'ouverture des branchements pour les nouveaux abonnés défini par le service,Délai maximal d'ouverture des branchements,jours ouvrables,V070613
+P101.1,AEP,de performance,Taux de conformité des prélèvements sur les eaux distribuées réalisés au titre du contrôle sanitaire par rapport aux limites de qualité pour ce qui concerne la microbiologie,Taux de conformité micro-biologique,%,V100315
+P102.1,AEP,de performance,Taux de conformité des prélèvements sur les eaux distribuées réalisés au titre du contrôle sanitaire par rapport aux limites de qualité pour ce qui concerne les paramètres physico-chimiques,Taux de conformité physico-chimique,%,V100315
+P103.2,AEP,de performance,Indice de connaissance et de gestion patrimoniale des réseaux d'eau potable (jusqu'à 2012),Indice de connaissance des réseaux,unité,V140206
+P103.2B,AEP,de performance,Indice de connaissance et de gestion patrimoniale des réseaux d'eau potable (à partir de 2013),Indice de connaissance des réseaux,points,V140206
+P104.3,AEP,de performance,Rendement du réseau de distribution,Rendement du réseau de distribution,%,V070613
+P105.3,AEP,de performance,Indice linéaire des volumes non comptés    ,Indice linéaire des volumes non comptés    ,m³/km/j,V070613
+P106.3,AEP,de performance,Indice linéaire de pertes en réseau,Indice linéaire de pertes en réseau,m³/km/j,V070613
+P107.2,AEP,de performance,Taux moyen de renouvellement des réseaux d'eau potable,Taux moyen de renouvellement des réseaux,%,V070613
+P108.3,AEP,de performance,Indice d’avancement de la protection de la ressource en eau,Indice d’avancement de la protection de la ressource en eau,%,V080422
+P109.0,AEP,de performance,Montant des abandons de créances ou des versements à un fond de solidarité,Montant des abandons de créances,€/m³,V140318
+P151.1,AEP,de performance,Taux d’occurrence des interruptions de service non programmées,Taux d’occurrence des interruptions de service non programmées,nb/1000ab,V070613
+P152.1,AEP,de performance,Taux de respect du délai maximal d’ouverture des branchements pour les nouveaux abonnés,Taux de respect du délai maximal d’ouverture des branchements ,%,V070613
+P153.2,AEP,de performance,Durée d’extinction de la dette de la collectivité,Durée d’extinction de la dette de la collectivité,an,V070613
+P154.0,AEP,de performance,Taux d’impayés sur les factures d’eau de l'année précédente,Taux d’impayés sur les factures d’eau de l'année précédente,%,V100315
+P155.1,AEP,de performance,Taux de réclamations,Taux de réclamations,nb/1000ab,V070622
+D201.0,AC,descriptif des services,"Estimation du nombre d'habitants desservis par un réseau de collecte des eaux usées, unitaire ou séparatif",Estimation du nombre d'habitants desservis,hab,V070622
+D202.0,AC,descriptif des services,Nombre d'autorisations de déversement d'effluents d'établissements industriels au réseau de collecte des eaux usées,Nombre d'autorisations de déversement d'effluents industriels,unité,V070613
+D203.0,AC,descriptif des services,Quantité de boues issues des ouvrages d'épuration,Quantité de boues issues des ouvrages d'épuration,tMS,V070613
+D204.0,AC,descriptif des services,Prix TTC du service au m3 pour 120 m3,Prix TTC du service au m3 pour 120 m3,€/m³,V140318
+P201.1,AC,de performance,Taux de desserte par des réseaux de collecte des eaux usées,Taux de desserte par des réseaux de collecte des eaux usées,%,V070613
+P202.2,AC,de performance,Indice de connaissance et de gestion patrimoniale des réseaux de collecte des eaux usées  (jusqu'à 2012),Indice de connaissance des réseaux,unité,V140206
+P202.2B,AC,de performance,Indice de connaissance et de gestion patrimoniale des réseaux de collecte des eaux usées (à partir de 2013),Indice de connaissance des réseaux,points,V140206
+P203.3,AC,de performance,Conformité de la collecte des effluents aux prescriptions définies en application du décret 94-469 du 3 juin 1994 modifié par le décret du 2 mai 2006,Conformité de la collecte des effluents,%,En cours de rédaction
+P204.3,AC,de performance,Conformité des équipements d’épuration aux prescriptions définies en application du décret 94-469 du 3 juin 1994 modifié par le décret du 2 mai 2006,Conformité des équipements d’épuration,%,En cours de rédaction
+P205.3,AC,de performance,Conformité de la performance des ouvrages d’épuration aux prescriptions définies en application du décret 94-469 du 3 juin 1994 modifié par le décret du 2 mai 2006,Conformité de la performance des ouvrages d’épuration,%,En cours de rédaction
+P206.3,AC,de performance,Taux de boues issues des ouvrages d'épuration évacuées selon des filières conformes à la réglementation,Taux de boues évacuées selon des filières conformes,%,V070613
+P207.0,AC,de performance,Montant des abandons de créances ou des versements à un fond de solidarité,Montant des abandons de créances,€/m³,V070613
+P251.1,AC,de performance,Taux de débordement des effluents dans les locaux des usagers ,Taux de débordement des effluents dans les locaux des usagers ,nb/1000hab,V070613
+P252.2,AC,de performance,Nombre de points du réseau de collecte nécessitant des interventions fréquentes de curage par 100 km de réseau,Nombre de points du réseau nécessitant des interventions fréquentes de curage ,nb/100 km,V070613
+P253.2,AC,de performance,Taux moyen de renouvellement des réseaux de collecte des eaux usées,Taux moyen de renouvellement des réseaux ,%,V070622
+P254.3,AC,de performance,Conformité des performances des équipements d'épuration au regard des prescriptions de l'acte individuel pris en application de la police de l'eau,Conformité des performances des équipements d'épuration (acte individuel),%,V070613
+P255.3,AC,de performance,Indice de connaissance des rejets au milieu naturel par les réseaux de collecte des eaux usées,Indice de connaissance des rejets au milieu naturel par les réseaux ,unité,V080422
+P256.2,AC,de performance,Durée d’extinction de la dette de la collectivité,Durée d’extinction de la dette de la collectivité,an,V070613
+P257.0,AC,de performance,Taux d’impayés sur les factures d’eau de l'année précedente,Taux d’impayés sur les factures d’eau de l'année précedente,%,V100315
+P258.1,AC,de performance,Taux de réclamations,Taux de réclamations,nb/1000ab,V070622
+D301.0,ANC,descriptif des services,Evaluation du nombre d'habitants desservis par le service public de l'assainissement non collectif,Evaluation du nombre d'habitants desservis par le service public ANC,hab,V070622
+D302.0,ANC,descriptif des services,Indice de mise en œuvre de l'assainissement non collectif,Indice de mise en œuvre de l'ANC,unité,V140308
+P301.3,ANC,de performance,Taux de conformité des dispositifs d'assainissement non collectif,Taux de conformité des dispositifs d'ANC,%,V070613
