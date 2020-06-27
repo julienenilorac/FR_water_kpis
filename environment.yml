@@ -9,3 +9,4 @@ dependencies:
   - voila
   - voila-material
   - ipywidgets
+  - notebook
