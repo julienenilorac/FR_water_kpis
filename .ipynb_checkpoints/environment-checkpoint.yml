@@ -1,0 +1,12 @@
+name: water_app
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - plotly
+  - requests
+  - traitlets 
+  - voila
+  - voila-material
+  - ipywidgets
