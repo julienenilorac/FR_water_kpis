@@ -2,7 +2,7 @@ name: fr_water_kpis
 channels:
   - conda-forge
 dependencies:
-  - pandas=0.25.1
+  - pandas
   - plotly=4.4.1
   - requests=2.22.0
   - traitlets=4.3.3
